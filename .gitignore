@@ -2,4 +2,4 @@
 .ipynb*
 
 
-$ echo "config.py" >> .gitignore
+$ echo "api_keys.py" >> .gitignore
